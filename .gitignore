@@ -1,0 +1,33 @@
+# colcon build outputs
+build/
+install/
+log/
+
+# trained model outputs 
+outputs/
+
+# recorded demos 
+lerobot_demos/
+aura_demos/
+
+# python 
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# auto-generated URDF (xacro is the source)
+src/aura_description/urdf/so_arm101.urdf
+
+

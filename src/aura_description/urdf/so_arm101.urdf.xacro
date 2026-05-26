@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<robot name="so_arm101" xmlns:xacro="http://www.ros.org/wiki/xacro">
+
+  <xacro:include filename="$(find aura_description)/urdf/so_arm101_macro.xacro" />
+
+  <link name="world"/>
+
+  <xacro:so_arm101 prefix="" parent="world">
+    <origin xyz="0 0 0" rpy="0 0 0" />
+  </xacro:so_arm101>
+
+</robot>
