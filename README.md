@@ -8,9 +8,10 @@ Built on the SO-ARM101 with STS3215 servos. Integrates ROS 2, lerobot, and imita
 
 ## Demos & dataset
 
-- **Demo videos** — [see releases](https://github.com/<your-username>/aura/releases)
-- **Recorded dataset** (~30–100 episodes, parquet + MP4) — [download from releases](https://github.com/<your-username>/aura/releases)
-- **Trained checkpoints** — [download from releases](https://github.com/<your-username>/aura/releases)
+- **Recorded dataset** (~70 episodes, parquet + MP4) — [aki1107/aura-pickup on HuggingFace](https://huggingface.co/datasets/aki1107/aura-pickup)
+- **Trained ACT checkpoint** — [aki1107/aura-act on HuggingFace](https://huggingface.co/aki1107/aura-act)
+- **Trained SmolVLA checkpoint** — [aki1107/aura-smolvla on HuggingFace](https://huggingface.co/aki1107/aura-smolvla)
+- **Demo videos** — [GitHub Releases](https://github.com/abdulxkhaliq/aura/releases) (short MP4 clips of the policies in action)
 
 ---
 
