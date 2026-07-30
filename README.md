@@ -8,7 +8,10 @@ Built on the SO-ARM101 with STS3215 servos. Integrates ROS 2, lerobot, and imita
 
 ## Demos & dataset
 
-[![AURA wrist view](https://img.youtube.com/vi/-fd4ih16TK0/hqdefault.jpg)](https://www.youtube.com/watch?v=-fd4ih16TK0)
+[![AURA wrist view](https://img.youtube.com/vi/-fd4ih16TK0/hqdefault.jpg)](https://www.youtube.com/watch?v=-fd4ih16TK0) [![AURA top view](https://img.youtube.com/vi/3jp4w2dLiDk/hqdefault.jpg)](https://www.youtube.com/watch?v=3jp4w2dLiDk)
+
+*Click image to watch wrist and top view demo on YouTube*
+
 
 - **Recorded dataset** (~70 episodes, parquet + MP4) — [aki1107/aura-pickup on HuggingFace](https://huggingface.co/datasets/aki1107/aura-pickup)
 - **Trained ACT checkpoint** — [aki1107/aura-act on HuggingFace](https://huggingface.co/aki1107/aura-act)
